@@ -14,7 +14,8 @@ This repository includes visual representations of GitHub metrics.
   </tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/?username=fc883388&show_icons=true&theme=radical" alt="Image 1"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fc883388&hide=html,css&layout=compact&theme=radical" alt="Image 2"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fc883388&hide=html,css&layout=compact&theme=radical" alt="Image 2">
+</td>
   </tr>
 </table>
 
@@ -23,7 +24,8 @@ This repository includes visual representations of GitHub metrics.
     <th>Other Metrics</th> 
   </tr> 
   <tr> 
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=fc883388&theme=radical&date_format=j%20M%20Y" alt="GitHub Streak Stats"></td> 
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=fc883388&theme=radical&date_format=j%20M%20Y" alt="GitHub Streak Stats">
+</td> 
   </tr> 
 </table>
 
